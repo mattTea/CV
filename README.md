@@ -1,18 +1,19 @@
-## Your Name
+## Matt Thompson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A digital product engineer, specialising in React and Ruby web development.
+As a business analyst, product delivery coach and engineer I live for building communities, breaking role boundaries and learning. Whilst teaching myself web development I realised how much more I could bring to my teams through using my analysis skills to solve engineering problems. I contributed to the My Account web application at John Lewis & Partners in React, as well as building and launching a learning resources app for the IT delivery organisation, built using React and Firebase, before joining Makers Academy to accelerate the value I can bring to collaborative product development teams.
 
 ## Skills
 
-#### This Skill
+#### Coaching
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Learning and curiosity are my constants and I try to bring this to the teams I work with. Fortunately I work in an organisation, an industry and a world that is constantly changing so there are many opportunities. Through a mixture of team and individual coaching and wider training sessions I recently led the ways of working and skills changes required to change a very traditional project organisation into a lean software engineering and learning organisation.
 
-- Experience
-- Achievements
-- Evidence
+- Created and delivered training sessions on Kanban, flow, the theory of constraints.
+- Coached members of the business analysis practice and digital product teams in user research, design thinking and lean delivery.
+- Delivered conference talks on how we'd used techniques such as Cynefin and BDD discovery in our requirements engineering approaches.
 
-#### Another Skill
+#### Analysis
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,9 +24,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2019 to May 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code. [PROVIDE EVIDENCE] I began teaching myself web development at the end of 2016 after gaining a huge respect and love for it while working in digital product teams. I started to contribute to the products I was working with shortly after, but wanted a much deeper understanding and practical experience of the practices and approaches that make great engineers, so I joined Makers.
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
@@ -34,17 +35,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Birkbeck College, University of London (???? to ????)
 
-- Subject, any specialisms
-- Grade
+- MSc International Business Research
+- Merit
+- Specialisms
 - Other cool stuff
 
-#### Any other qualifications
+#### Greenwich University (???? to ????)
+
+- BEng (Hons) Mechanical Engineering
+- 2:I
+- Specialisms
+- Other cool stuff
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**John Lewis & Partners** (May 2013 to present)    
+*Product Engineer*
+*Business Analysis Manager*
+*Coach Practitioner*  
+**British Gas** (July 2011 to May 2013)   
+*Business Architect*
+*Business Analyst*  
