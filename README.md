@@ -20,6 +20,8 @@ Through a mixture of team and individual coaching and classroom teaching, I rece
 
 #### Digital Product Delivery
 
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
 Collaboration - different perspectives, prioritisation - MVP and scope management, optimising for flow (lean), fast feedback (agile) 
 
 #### Analysis
@@ -37,6 +39,8 @@ Sharing my findings, lessons and ideas at conferences in the UK and Europe to ch
 
 ## Products
 
+Below are a number of web apps that I have built for learning purposes. And one, to solve a particular problem at John Lewis ([Delivering our future](https://github.com/mattTea/dof-app)), now has over 200 regular users.
+
 Product | Description | Technologies
 ------------ | ------------------------------ | ----------------
 [TinyGigs](https://github.com/mattTea/TinyGigs) | A simple React web app for live music in small London venues. Find tonight's gig or performance [here](http://tinygigs.matttea.com/). | React. node.js.
@@ -49,8 +53,8 @@ Product | Description | Technologies
 #### Makers Academy (February 2019 to May 2019)
 
 - I'm passionate about learning, and about engineering. I began teaching myself web development after realising how much more I could bring to my teams through using my analysis skills to solve engineering problems. After building a number of small web apps I started to contribute directly to the products I was working with...
-  - The React UI of the My Account web application at John Lewis & Partners, in order to learn more about TDD practices and continuous delivery
-  - Building and launching a [learning resources app](https://github.com/mattTea/dof-app) for our engineering organisation, using React and Firebase, so that I could directly experience customer and user feedback, and understand the demands of supporting and maintaining a product, while further developing it
+  - The React UI of the My Account web application at John Lewis & Partners, in order to learn more about TDD practices and continuous delivery.
+  - Building and launching a [learning resources app](https://github.com/mattTea/dof-app) for our engineering organisation, using React and Firebase, so that I could directly experience customer and user feedback, and understand the demands of supporting and maintaining a product, while continuing to develop it.
 
 - e.g. Great collaborator [PROVIDE EVIDENCE]
 
