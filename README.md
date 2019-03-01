@@ -6,6 +6,7 @@ A digital product engineer, specialising in React and Ruby web development.
 
 As a business analyst, engineer and product delivery coach at John Lewis & Partners I live for building communities, breaking role boundaries and continual learning. I began teaching myself web development at the end of 2016 after gaining a huge respect and love for it while working in digital product teams. I built a number of small React based web apps (including [TinyGigs](http://tinygigs.matttea.com/) and [my blog](http://blog.matttea.com)) before I started to contribute directly to the products I was working with. I joined Makers Academy as I want a much deeper understanding and experience of the practices and approaches that make great engineers, to bring even more value to collaborative product development teams.
 
+
 ## Skills
 
 #### Coaching
@@ -61,23 +62,23 @@ I'm passionate about learning, and about engineering. I began teaching myself we
 - The React UI of the My Account web application at John Lewis & Partners, in order to learn more about TDD practices and continuous delivery.
 - Building and launching a [learning resources app](https://github.com/mattTea/dof-app) for our engineering organisation, using React and Firebase, so that I could directly experience customer and user feedback, and understand the demands of supporting and maintaining a product, while continuing to develop it.
 
-At Makers...
+At Makers Acadmy I have so far been able to increase my experience of test-driven design and pair programming, with
 
-- e.g. Great collaborator [PROVIDE EVIDENCE]
-- e.g. OOP, TDD, MVC, DDD
-- e.g. Agile/XP
-- e.g. Ruby, Rails, JavaScript
-- e.g. RSpec, Jasmine
+- Ruby
+- RSpec
+
 
 #### Birkbeck College, University of London (Oct 2003 to Jun 2005)
 
 - MSc International Business Research
 - Merit
 
+
 #### Greenwich University (Sep 1998 to Jun 2002)
 
 - BEng (Hons) Mechanical Engineering
 - 2:I
+
 
 ## Experience
 
