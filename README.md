@@ -4,42 +4,47 @@
 
 A digital product engineer, specialising in React and Ruby web development.
 
-As a business analyst, engineer and product delivery coach at John Lewis & Partners I live for building communities, breaking role boundaries and learning. I began teaching myself web development at the end of 2016 after gaining a huge respect and love for it while working in digital product teams. I built a number of small React based web apps (including [TinyGigs](http://tinygigs.matttea.com/) and [my blog](http://blog.matttea.com)) before I started to contribute directly to the products I was working with. I joined Makers Academy as I want a much deeper understanding and experience of the practices and approaches that make great engineers, so I can really accelerate the value I bring to collaborative product development teams.
+As a business analyst, engineer and product delivery coach at John Lewis & Partners I live for building communities, breaking role boundaries and continual learning. I began teaching myself web development at the end of 2016 after gaining a huge respect and love for it while working in digital product teams. I built a number of small React based web apps (including [TinyGigs](http://tinygigs.matttea.com/) and [my blog](http://blog.matttea.com)) before I started to contribute directly to the products I was working with. I joined Makers Academy as I want a much deeper understanding and experience of the practices and approaches that make great engineers, to bring even more value to collaborative product development teams.
 
 ## Skills
 
 #### Coaching
 
-Learning and curiosity are my personal and professional priorities, and I always bring this to the teams I work with. Fortunately I work in an organisation, an industry and a world that is constantly changing so there are plenty of opportunities.
+Learning and curiosity are my personal and professional priorities, and I always bring this to the teams and individuals I work with.
 
-Through a mixture of team and individual coaching and classroom teaching, I recently led our engineering teams through a number of skills and ways of working changes required to convert a very traditional project organisation into a lean software engineering and learning organisation.
+Through a mixture of team and individual coaching and classroom teaching, I recently led our engineering teams through a number of skills and ways of working changes required to transform a traditional project organisation into a lean software engineering and learning organisation.
 
 - Created and delivered training sessions on Kanban, flow, and the theory of constraints, amongst others.
 - Coached members of the business analysis practice and digital product teams in user research, design thinking and lean delivery.
 - Delivered conference talks on how we'd used techniques such as Cynefin and BDD discovery in our requirements engineering approaches.
 
+
 #### Digital Product Delivery
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Through measurement and a focus on lean principles (flow, theory of constraints) I have mentored and supported the increased throughout and value in a number of digital product delivery teams.
 
-Collaboration - different perspectives, prioritisation - MVP and scope management, optimising for flow (lean), fast feedback (agile) 
+Using customer research, fast feedback and hypothesis testing techniques, I have supported teams delivering successful MVPs and new propositions with increased customer satisfaction and reduced rework.
+
+- Collaboration of different perspectives
+- Prioritisation and MVP scope management
+
 
 #### Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a Business Analysis practitioner I focus on requirement discovery and engineering, ensuring the products I work with solve our customers problems.
 
-Changing how we think about analysis, coaching BA practice members in what it means to be a BA in lean, empowered, product teams, requirements discovery, customer focus, hypothesis testing and iterative delivery
+As a Business Analysis leader I have coached, mentored and developed individuals and communities of practice in the core analysis disciplines required by lean and empowered product teams.
 
-Sharing my findings, lessons and ideas at conferences in the UK and Europe to check my thinking and our direction
+I share my thoughts and lessons at conferences in the UK and Europe to compare and grow my understanding further.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I delivered learning material and coaching on collaborative requirements discovery techniques such as BDD, story and example mapping and design thinking as part of a skills transformation at John Lewis & Partners. 
+- I have spoken on topics such as Cynefin and flexible analysis skills at conferences in both the [UK](https://irmuk.co.uk/events/business-analysis-conference-europe-2017/#session-55) and [Belgium](https://ba-beyond.eu/2019-programme.php#Matt).
+
+
 
 ## Products
 
-Below are a number of web apps that I have built for learning purposes. And one, to solve a particular problem at John Lewis ([Delivering our future](https://github.com/mattTea/dof-app)), now has over 200 regular users.
+Below are a number of web apps that I have built for learning purposes. And one, solving a particular problem at John Lewis ([delivering our future](https://github.com/mattTea/dof-app)), now has over 200 regular users.
 
 Product | Description | Technologies
 ------------ | ------------------------------ | ----------------
@@ -52,23 +57,24 @@ Product | Description | Technologies
 
 #### Makers Academy (February 2019 to May 2019)
 
-- I'm passionate about learning, and about engineering. I began teaching myself web development after realising how much more I could bring to my teams through using my analysis skills to solve engineering problems. After building a number of small web apps I started to contribute directly to the products I was working with...
-  - The React UI of the My Account web application at John Lewis & Partners, in order to learn more about TDD practices and continuous delivery.
-  - Building and launching a [learning resources app](https://github.com/mattTea/dof-app) for our engineering organisation, using React and Firebase, so that I could directly experience customer and user feedback, and understand the demands of supporting and maintaining a product, while continuing to develop it.
+I'm passionate about learning, and about engineering. I began teaching myself web development after realising how much more I could bring to my teams through using my analysis skills to solve engineering problems. After building a number of small web apps I started to contribute directly to the products I was working with...
+- The React UI of the My Account web application at John Lewis & Partners, in order to learn more about TDD practices and continuous delivery.
+- Building and launching a [learning resources app](https://github.com/mattTea/dof-app) for our engineering organisation, using React and Firebase, so that I could directly experience customer and user feedback, and understand the demands of supporting and maintaining a product, while continuing to develop it.
+
+At Makers...
 
 - e.g. Great collaborator [PROVIDE EVIDENCE]
+- e.g. OOP, TDD, MVC, DDD
+- e.g. Agile/XP
+- e.g. Ruby, Rails, JavaScript
+- e.g. RSpec, Jasmine
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Birkbeck College, University of London (???? to ????)
+#### Birkbeck College, University of London (Oct 2003 to Jun 2005)
 
 - MSc International Business Research
 - Merit
 
-#### Greenwich University (???? to ????)
+#### Greenwich University (Sep 1998 to Jun 2002)
 
 - BEng (Hons) Mechanical Engineering
 - 2:I
