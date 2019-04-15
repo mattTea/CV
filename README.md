@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Products](#products) | [Experience](#experience) | [Education](#education) | [Blog](http://blog.matttea.com)
 
-A digital product engineer, specialising in React and Ruby web development.
+A business analysis leader and product coach turned software engineer, specialising in JavaScript, Ruby and Kotlin web applications.
 
 As a business analyst, engineer and product delivery coach at John Lewis & Partners I live for building communities, breaking role boundaries and continual learning. I began teaching myself web development at the end of 2016 after gaining a huge respect and love for it while working in digital product teams. I built a number of small React based web apps (including [TinyGigs](http://tinygigs.matttea.com/) and [my blog](http://blog.matttea.com)) before I started to contribute directly to the products I was working with. I joined Makers Academy as I want a much deeper understanding and experience of the practices and approaches that make great engineers, to bring even more value to collaborative product development teams.
 
